@@ -1,0 +1,27 @@
+body {
+    background-color: lavender;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+* {
+    background-color: rgb(136, 141, 160);
+}
+
+pre {
+    background-color: rgb(180, 151, 176);
+    font-size: 1.5em;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 25%;
+}
+
+.form-control[readonly] {
+    color: rgb(71, 149, 185);
+    margin: 5px;
+    border: 20px;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
